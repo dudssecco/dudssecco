@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dudssecco
+- 👀 I’m interested in JavaScrpt, HTML, CCS, Ux/Ix Desing
+- 🌱 I’m currently learning Ux/Ix Desing
+- 💞️ I’m looking to collaborate on Web Developer
+- 📫 How to reach me @dudssecco 
