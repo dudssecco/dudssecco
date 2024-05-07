@@ -20,3 +20,10 @@ I'm a web developer and I'm a little over 20 years old.
     <img align="center" alt="MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudssecco/dudssecco/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudssecco/dudssecco/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dudssecco/dudssecco/output/github-contribution-grid-snake.svg">
+</picture>
