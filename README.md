@@ -5,8 +5,8 @@ I'm a web developer and I'm a little over 20 years old.
 ```
 <div>
     <a href="https://github.com/dudssecco">
-    <img width="495" heigth="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dudssecco&theme=tokyonight&hide_border=true" />
-    <img width="420" heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudssecco&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img heigth="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dudssecco&theme=tokyonight&hide_border=true" />
+    <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudssecco&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <div style="display: inline_block"><br>
