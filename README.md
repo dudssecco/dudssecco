@@ -1,24 +1,29 @@
 ## Hello. I'm Dudssecco 
 
-```
-I'm a web developer and I'm a little over 20 years old. 
-```
 <div>
-    <a href="https://github.com/dudssecco">
-    <img heigth="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dudssecco&theme=tokyonight&hide_border=true" />
-    <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudssecco&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dudssecco&theme=buefy&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudssecco&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+<br>
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudssecco&theme=buefy&hide_border=false"/>
 </div>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Ts" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" alt="NodeJs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="MongoDB" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img align="center" alt="MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
+##
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   </div>
+
+   
 
 ##
 
