@@ -1,4 +1,4 @@
-## Hello. I'm Dudssecco 
+## Hello. I'm Dudssecco! 
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dudssecco&theme=buefy&hide_border=false&include_all_commits=false&count_private=false"/>
