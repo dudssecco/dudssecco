@@ -1,14 +1,14 @@
 ## Hello. I'm Dudssecco! 
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dudssecco&theme=buefy&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudssecco&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dudssecco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudssecco&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudssecco&theme=buefy&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudssecco&theme=tokyonight&hide_border=false"/>
 </div>
 
 ##
