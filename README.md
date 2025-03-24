@@ -6,11 +6,6 @@
 </div>
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudssecco&theme=tokyonight&hide_border=false"/>
-</div>
-
 ##
 
 <div  align="center"> 
