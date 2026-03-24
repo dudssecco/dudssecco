@@ -1,46 +1,58 @@
-## Hello. I'm Dudssecco! 
+## About Me
 
-Software Engineer focused on building real-world products, automation, and AI-driven systems.
+Hi, welcome to my profile.
 
-## About
+My name is Eduardo, and I'm a Software Engineer focused on building scalable web applications, APIs, and AI-driven systems.
 
-I design and build scalable backend systems with strong integration capabilities.
-Focused on turning ideas into working products with real business impact.
+I work mainly with modern full-stack technologies, using NestJS and Next.js to design and develop robust, production-ready applications. My focus is on creating systems that are not only functional, but also well-structured, scalable, and easy to evolve.
 
-## Stack
+I’m especially interested in combining backend architecture, integrations, and artificial intelligence to build smart, automated solutions that solve real business problems.
 
-* Node.js
-* Express
-* PostgreSQL
-* Docker
+---
 
-## Work
+## Core Stack
 
-**AI Virtual Assistant (WhatsApp)**
-Automated customer service system with AI, scheduling, and multi-user support.
+* Frontend: Next.js, React, TypeScript
+* Backend: NestJS, Node.js, REST APIs
+* Databases: PostgreSQL, data modeling
+* Infrastructure: Docker, containerized environments
+* Integrations: APIs, Webhooks, third-party services
+* Automation: n8n
+* AI: LLM integration, local models (Ollama), RAG
 
-**Micro SaaS Platforms**
-Small, focused tools for task management and client workflows.
+---
 
-**E-commerce System**
-Full platform with payments, orders, and admin dashboard.
+## What I'm Building
 
-## Focus
+I’m currently working on projects that combine full-stack development, automation, and AI:
 
-* AI-powered systems
-* Backend architecture
-* Automation and integrations
-* Building scalable SaaS
+* AI Virtual Assistant (WhatsApp)
+  Intelligent system for customer service, scheduling, and automated workflows.
+
+* Micro SaaS Platforms
+  Tools focused on solving specific problems with clean UX and scalable architecture.
+
+* E-commerce Systems
+  Complete platforms with payments, order management, and admin dashboards.
+
+---
+
+## Current Focus
+
+* Full-stack architecture with NestJS + Next.js
+* Scalable backend systems
+* AI-powered applications
+* SaaS product development
+
+---
 
 ## Contact
 
 * Email: [dudssecco.code@gmail.com](mailto:dudssecco.code@gmail.com)
 
-##
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudssecco/dudssecco/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudssecco/dudssecco/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dudssecco/dudssecco/output/github-contribution-grid-snake.svg">
-</picture>
+## Philosophy
 
+Build clean systems.
+Scale what matters.
