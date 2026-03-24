@@ -2,14 +2,10 @@
 
 Software Engineer focused on building real-world products, automation, and AI-driven systems.
 
----
-
 ## About
 
 I design and build scalable backend systems with strong integration capabilities.
 Focused on turning ideas into working products with real business impact.
-
----
 
 ## Stack
 
@@ -17,8 +13,6 @@ Focused on turning ideas into working products with real business impact.
 * Express
 * PostgreSQL
 * Docker
-
----
 
 ## Work
 
@@ -31,16 +25,12 @@ Small, focused tools for task management and client workflows.
 **E-commerce System**
 Full platform with payments, orders, and admin dashboard.
 
----
-
 ## Focus
 
 * AI-powered systems
 * Backend architecture
 * Automation and integrations
 * Building scalable SaaS
-
----
 
 ## Contact
 
