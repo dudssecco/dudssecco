@@ -1,20 +1,51 @@
 ## Hello. I'm Dudssecco! 
 
-<br>
+Software Engineer focused on building real-world products, automation, and AI-driven systems.
 
-##
+---
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="mongodb-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   </div>
+## About
+
+I design and build scalable backend systems with strong integration capabilities.
+Focused on turning ideas into working products with real business impact.
+
+---
+
+## Stack
+
+* Node.js
+* Express
+* PostgreSQL
+* Docker
+
+---
+
+## Work
+
+**AI Virtual Assistant (WhatsApp)**
+Automated customer service system with AI, scheduling, and multi-user support.
+
+**Micro SaaS Platforms**
+Small, focused tools for task management and client workflows.
+
+**E-commerce System**
+Full platform with payments, orders, and admin dashboard.
+
+---
+
+## Focus
+
+* AI-powered systems
+* Backend architecture
+* Automation and integrations
+* Building scalable SaaS
+
+---
+
+## Contact
+
+* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: your-linkedin
 
 ##
 
