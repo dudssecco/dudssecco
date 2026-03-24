@@ -34,8 +34,7 @@ Full platform with payments, orders, and admin dashboard.
 
 ## Contact
 
-* Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: your-linkedin
+* Email: [dudssecco.code@gmail.com](mailto:dudssecco.code@gmail.com)
 
 ##
 
