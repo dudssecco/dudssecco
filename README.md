@@ -8,7 +8,6 @@ I work mainly with modern full-stack technologies, using NestJS and Next.js to d
 
 I’m especially interested in combining backend architecture, integrations, and artificial intelligence to build smart, automated solutions that solve real business problems.
 
----
 
 ## Core Stack
 
@@ -20,7 +19,6 @@ I’m especially interested in combining backend architecture, integrations, and
 * Automation: n8n
 * AI: LLM integration, local models (Ollama), RAG
 
----
 
 ## What I'm Building
 
@@ -35,7 +33,6 @@ I’m currently working on projects that combine full-stack development, automat
 * E-commerce Systems
   Complete platforms with payments, order management, and admin dashboards.
 
----
 
 ## Current Focus
 
@@ -44,15 +41,11 @@ I’m currently working on projects that combine full-stack development, automat
 * AI-powered applications
 * SaaS product development
 
----
 
 ## Contact
 
 * Email: [dudssecco.code@gmail.com](mailto:dudssecco.code@gmail.com)
 
----
-
-## Philosophy
 
 Build clean systems.
 Scale what matters.
