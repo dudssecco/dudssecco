@@ -40,12 +40,3 @@ I’m currently working on projects that combine full-stack development, automat
 * Scalable backend systems
 * AI-powered applications
 * SaaS product development
-
-
-## Contact
-
-* Email: [dudssecco.code@gmail.com](mailto:dudssecco.code@gmail.com)
-
-
-Build clean systems.
-Scale what matters.
