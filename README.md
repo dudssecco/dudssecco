@@ -1,42 +1,11 @@
-## About Me
+<div align="center">
 
-Hi, welcome to my profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Eduardo+Secco" alt="Eduardo Secco" />
 
-My name is Eduardo, and I'm a Software Engineer focused on building scalable web applications, APIs, and AI-driven systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Tree;Web+apps+%C2%B7+APIs+%C2%B7+AI+systems;Florian%C3%B3polis%2C+SC" alt="Software Engineer @ Tree" />
 
-I work mainly with modern full-stack technologies, using NestJS and Next.js to design and develop robust, production-ready applications. My focus is on creating systems that are not only functional, but also well-structured, scalable, and easy to evolve.
+<br /><br />
 
-I’m especially interested in combining backend architecture, integrations, and artificial intelligence to build smart, automated solutions that solve real business problems.
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nestjs,nodejs,postgres,docker&theme=dark" alt="Stack" />
 
-
-## Core Stack
-
-* Frontend: Next.js, React, TypeScript
-* Backend: NestJS, Node.js, REST APIs
-* Databases: PostgreSQL, data modeling
-* Infrastructure: Docker, containerized environments
-* Integrations: APIs, Webhooks, third-party services
-* Automation: n8n
-* AI: LLM integration, local models (Ollama), RAG
-
-
-## What I'm Building
-
-I’m currently working on projects that combine full-stack development, automation, and AI:
-
-* AI Virtual Assistant (WhatsApp)
-  Intelligent system for customer service, scheduling, and automated workflows.
-
-* Micro SaaS Platforms
-  Tools focused on solving specific problems with clean UX and scalable architecture.
-
-* E-commerce Systems
-  Complete platforms with payments, order management, and admin dashboards.
-
-
-## Current Focus
-
-* Full-stack architecture with NestJS + Next.js
-* Scalable backend systems
-* AI-powered applications
-* SaaS product development
+</div>
