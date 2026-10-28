@@ -395,8 +395,8 @@ function pulse(data, s, t, id) {
 // Total per weekday as bars that grow in one after another.
 function weekdays(data, s, t) {
   const width = 388;
-  const height = 270;
-  const [x0, barMax, top, lh] = [56, 250, 76, 26];
+  const height = 331; // same as the skyline so they line up side by side
+  const [x0, barMax, top, lh, bh] = [56, 250, 84, 34, 20];
   const max = Math.max(1, ...s.byWeekday);
 
   const css = `.w{transform-box:fill-box;transform-origin:0 50%;animation:bar ${PERIOD}s cubic-bezier(.2,.8,.3,1) infinite both}
@@ -411,9 +411,9 @@ function weekdays(data, s, t) {
     const y = top + i * lh;
     const w = Math.max(3, (v / max) * barMax);
     const delay = r(i * 0.12);
-    body += `<text x="20" y="${y + 12}" font-size="11" fill="${t.muted}">${WEEKDAYS[i].slice(0, 3)}</text>
-<rect class="w" x="${x0}" y="${y}" width="${r(w)}" height="16" rx="4" fill="${t.levels[i === s.busiest ? 4 : 2]}" style="animation-delay:${delay}s"/>
-<text class="v" x="${r(x0 + w + 8)}" y="${y + 12}" font-size="11" fill="${t.text}" style="animation-delay:${delay}s">${fmt(v)}</text>
+    body += `<text x="20" y="${y + 14}" font-size="11" fill="${t.muted}">${WEEKDAYS[i].slice(0, 3)}</text>
+<rect class="w" x="${x0}" y="${y}" width="${r(w)}" height="${bh}" rx="4" fill="${t.levels[i === s.busiest ? 4 : 2]}" style="animation-delay:${delay}s"/>
+<text class="v" x="${r(x0 + w + 8)}" y="${y + 14}" font-size="11" fill="${t.text}" style="animation-delay:${delay}s">${fmt(v)}</text>
 `;
   });
   return svg(width, height, css, body);
