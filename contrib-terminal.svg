@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="264" viewBox="0 0 620 264">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.l0{animation:l0 12s linear infinite both}
+@keyframes l0{0%,3.33%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(57)}18.33%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l1{animation:l1 12s linear infinite both}
+@keyframes l1{0%,22.5%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(1)}24.58%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l2{animation:l2 12s linear infinite both}
+@keyframes l2{0%,25.42%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(1)}27.5%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l3{animation:l3 12s linear infinite both}
+@keyframes l3{0%,28.33%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(1)}30.42%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l4{animation:l4 12s linear infinite both}
+@keyframes l4{0%,31.25%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(1)}33.33%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l5{animation:l5 12s linear infinite both}
+@keyframes l5{0%,34.17%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(1)}36.25%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l6{animation:l6 12s linear infinite both}
+@keyframes l6{0%,37.08%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(1)}39.17%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l7{animation:l7 12s linear infinite both}
+@keyframes l7{0%,41.67%{clip-path:inset(0 100% 0 0);opacity:1;animation-timing-function:steps(1)}41.75%{clip-path:inset(0 0 0 0)}90%{opacity:1}94%,100%{clip-path:inset(0 0 0 0);opacity:0}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="619" height="263" rx="10" fill="#f6f8fa" stroke="#d1d9e0"/>
+<path d="M.5 34.5h619" stroke="#d1d9e0"/>
+<circle cx="20" cy="17.5" r="6" fill="#ff5f57"/><circle cx="40" cy="17.5" r="6" fill="#febc2e"/><circle cx="60" cy="17.5" r="6" fill="#28c840"/>
+<text x="310" y="22" text-anchor="middle" fill="#59636e" style="font-size:12px">dudssecco — zsh</text>
+<text class="l0" x="20" y="64" fill="#1f2328"><tspan fill="#1a7f37">$</tspan> git log --author=dudssecco --since=&quot;1 year ago&quot; --stats</text>
+<text class="l1" x="36" y="88" fill="#59636e">contributions<tspan x="187.20000000000002" fill="#0969da">2,150</tspan></text>
+<text class="l2" x="36" y="112" fill="#59636e">longest streak<tspan x="187.20000000000002" fill="#0969da">18 days</tspan></text>
+<text class="l3" x="36" y="136" fill="#59636e">current streak<tspan x="187.20000000000002" fill="#0969da">0 days</tspan></text>
+<text class="l4" x="36" y="160" fill="#59636e">best day<tspan x="187.20000000000002" fill="#0969da">65 on 2026-10-01</tspan></text>
+<text class="l5" x="36" y="184" fill="#59636e">busiest weekday<tspan x="187.20000000000002" fill="#0969da">Tuesday</tspan></text>
+<text class="l6" x="36" y="208" fill="#59636e">active days<tspan x="187.20000000000002" fill="#0969da">219 of 371</tspan></text>
+<g class="l7"><text x="20" y="232" fill="#1a7f37">$</text><rect class="cur" x="36.8" y="219" width="8.4" height="17" fill="#1f2328"/></g>
+
+</svg>

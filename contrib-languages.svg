@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="270" viewBox="0 0 388 270">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.s{transform-box:fill-box;transform-origin:0 50%;animation:seg 12s ease-out infinite both}
+.g{animation:leg 12s ease infinite both}
+@keyframes seg{0%{transform:scaleX(0)}5%{transform:scaleX(1)}88%{transform:scaleX(1)}95%,100%{transform:scaleX(0)}}
+@keyframes leg{0%{opacity:0;transform:translateY(6px)}5%{opacity:1;transform:none}88%{opacity:1}94%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<text x="20" y="24" font-size="16" font-weight="600" fill="#1f2328">Top languages</text>
+<text x="20" y="46" font-size="12" fill="#59636e">By code size across public repositories</text>
+<clipPath id="lc"><rect x="20" y="70" width="348" height="10" rx="5"/></clipPath>
+<g clip-path="url(#lc)">
+<rect class="s" x="20" y="70" width="329.96" height="10" fill="#f1e05a" style="animation-delay:0s"/>
+<rect class="s" x="349.46" y="70" width="6.72" height="10" fill="#663399" style="animation-delay:0.25s"/>
+<rect class="s" x="355.68" y="70" width="5.2" height="10" fill="#e34c26" style="animation-delay:0.5s"/>
+<rect class="s" x="360.38" y="70" width="4.91" height="10" fill="#F05138" style="animation-delay:0.75s"/>
+<rect class="s" x="364.79" y="70" width="2.11" height="10" fill="#3178c6" style="animation-delay:1s"/>
+<rect class="s" x="366.4" y="70" width="0.89" height="10" fill="#89e051" style="animation-delay:1.25s"/>
+<rect class="s" x="366.79" y="70" width="0.81" height="10" fill="#a91e50" style="animation-delay:1.5s"/>
+<rect class="s" x="367.1" y="70" width="1.4" height="10" fill="#8b949e" style="animation-delay:1.75s"/>
+</g>
+<g class="g" style="animation-delay:0.6s"><circle cx="25" cy="110" r="5" fill="#f1e05a"/><text x="38" y="114" font-size="12" font-weight="600" fill="#1f2328">JavaScript</text><text x="180" y="114" font-size="12" text-anchor="end" fill="#59636e">94.7%</text></g>
+<g class="g" style="animation-delay:0.72s"><circle cx="205" cy="110" r="5" fill="#663399"/><text x="218" y="114" font-size="12" font-weight="600" fill="#1f2328">CSS</text><text x="360" y="114" font-size="12" text-anchor="end" fill="#59636e">1.8%</text></g>
+<g class="g" style="animation-delay:0.84s"><circle cx="25" cy="140" r="5" fill="#e34c26"/><text x="38" y="144" font-size="12" font-weight="600" fill="#1f2328">HTML</text><text x="180" y="144" font-size="12" text-anchor="end" fill="#59636e">1.3%</text></g>
+<g class="g" style="animation-delay:0.96s"><circle cx="205" cy="140" r="5" fill="#F05138"/><text x="218" y="144" font-size="12" font-weight="600" fill="#1f2328">Swift</text><text x="360" y="144" font-size="12" text-anchor="end" fill="#59636e">1.3%</text></g>
+<g class="g" style="animation-delay:1.08s"><circle cx="25" cy="170" r="5" fill="#3178c6"/><text x="38" y="174" font-size="12" font-weight="600" fill="#1f2328">TypeScript</text><text x="180" y="174" font-size="12" text-anchor="end" fill="#59636e">0.5%</text></g>
+<g class="g" style="animation-delay:1.2s"><circle cx="205" cy="170" r="5" fill="#89e051"/><text x="218" y="174" font-size="12" font-weight="600" fill="#1f2328">Shell</text><text x="360" y="174" font-size="12" text-anchor="end" fill="#59636e">0.1%</text></g>
+<g class="g" style="animation-delay:1.32s"><circle cx="25" cy="200" r="5" fill="#a91e50"/><text x="38" y="204" font-size="12" font-weight="600" fill="#1f2328">EJS</text><text x="180" y="204" font-size="12" text-anchor="end" fill="#59636e">0.1%</text></g>
+<g class="g" style="animation-delay:1.44s"><circle cx="205" cy="200" r="5" fill="#8b949e"/><text x="218" y="204" font-size="12" font-weight="600" fill="#1f2328">Other</text><text x="360" y="204" font-size="12" text-anchor="end" fill="#59636e">0.3%</text></g>
+
+</svg>
